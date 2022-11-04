@@ -1,2 +1,2 @@
 # optgame
-A decentralized binary options game,play with cryptocurrency 
+A decentralized binary options game,play with cryptocurrency.
